@@ -11,7 +11,7 @@ El objetivo es comprender la estructura de un programa en Java, aprender el uso 
 
 1. Clonar el repositorio:
    bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
+   git clone https://github.com/Juan-UPB/primer_programa.git
    
 
 2. Abrir el proyecto en *Visual Studio Code* o cualquier IDE compatible con Java.
