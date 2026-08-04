@@ -59,5 +59,4 @@ Taller2/
 
 ## 📚 Recursos utilizados
 
-- ChatGPT (como guía): https://chatgpt.com/
 - Xacarana (guía para instalar el JDK): https://xacarana.com/
