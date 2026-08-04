@@ -45,9 +45,8 @@ El objetivo es comprender la estructura de un programa en Java, aprender el uso 
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
-text
 Taller2/
 │── Evidencias/          # Carpeta con las evidencias del taller
 │── HolaMundo.java       # Código fuente
